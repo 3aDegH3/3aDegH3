@@ -1,60 +1,51 @@
-# Hi — I’m Sadegh (صادق) 👋
-
-> **Computer Science student & software engineer** — curious about blockchain and networks, building reliable software, and learning system internals.
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code\&size=24\&duration=3000\&pause=700\&color=FF5722\&center=true\&vCenter=true\&width=650\&lines=Computer+Science+student;Interested+in+Blockchain+%26+Networking;Passionate+about+Clean+Code)
-
----
-
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/3aDegH3?label=Followers&style=social" />
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=3aDegH3&color=blueviolet" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=250&section=header&text=Sadegh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=55&descAlign=50"/>
 </p>
+<div align="center">
+### Hello World! I'm Sadegh 👋
+#### Passionate about **Blockchain Development**, **Smart Contracts**, and **Decentralized Systems**
 
+I'm a Computer Science student deeply fascinated by the potential of blockchain technology. My focus is on building secure and efficient smart contracts on the **Ethereum Virtual Machine (EVM)** using **Solidity** and **Foundry**. I explore the intricacies of **Web3**, decentralized applications (**dApps**), and the underlying architecture of blockchain networks, including their various layers (Layer 0, Layer 1, Layer 2). I am dedicated to writing clean, auditable, and gas-optimized code to contribute to a more decentralized future.
+</div>
 ---
-
-## 🧭 About Me
-
-I am a Computer Science student who enjoys learning and building software across systems, web, and distributed technologies. I’m particularly interested in blockchain concepts and networking, and I focus on writing clear, testable, and maintainable code.
-
+## 🛠️ My Tech Stack
+Here are some of the technologies I work with:
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h4>Languages</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,php,python" /><br/>
+    </td>
+    <td align="center">
+      <h4>Blockchain & Smart Contracts</h4>
+      <img src="https://skillicons.dev/icons?i=ethereum,solidity,foundry" /><br/>
+    </td>
+    <td align="center">
+      <h4>Web Development</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" /><br/>
+    </td>
+  </tr>
+</table>
 ---
-
-## 🛠️ Skills & Tools
-
+## 📊 My GitHub Stats & Activity
 <p align="center">
-
-<a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23007bff.svg?style=for-the-badge&logo=ethereum&logoColor=white" /></a> <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2314354C.svg?style=for-the-badge&logo=c&logoColor=white" /></a> <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-%2314354C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a> <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a> <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23007AB8.svg?style=for-the-badge&logo=wordpress&logoColor=white" /></a> <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%233447A6.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a> <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /></a> <a href="#"><img alt="Foundry" src="https://img.shields.io/badge/Foundry-%2320232a.svg?style=for-the-badge&logo=foundry&logoColor=white" /></a> <a href="#"><img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-%2300A3FF.svg?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=3aDegH3&show_icons=true&theme=tokyonight&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3aDegH3&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
-### Skill levels (visual)
-
-* **Solidity**: ██████████ 90%
-* **Foundry / Smart Contract Testing**: █████████░ 85%
-* **C / C++**: ████████░░ 75%
-* **JavaScript (JS)**: ██████░░░░ 50%
-* **Python**: ██████░░░░ 50%
-* **HTML / CSS**: █████████░ 85%
-* **MySQL**: ████████░░ 75%
-* **Linux**: ████████░░ 75%
-* **WordPress / PHP**: ████████░ 70%
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3aDegH3&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3aDegH3&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=3aDegH3&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
-
 ---
-
-
-## 📬 Contact
-
-* **Name:** Sadegh (صادق)
-* **Email:** `sadeghOx@gmail.com`
-* **GitHub:** `https://github.com/3aDegH3`
-
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/3aDegH3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:sadeghOx@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
